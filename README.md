@@ -1,5 +1,6 @@
-# Перевод Ruby on Rails Tutorial: пример приложения
+# Ruby on Rails Tutorial: sample application
 
-Это пример приложения для
-[*Ruby on Rails Tutorial*](http://railstutorial.org/)
-by [Майкл Хартл](http://michaelhartl.com/).
+This is the sample application for the
+[*Ruby on Rails Tutorial:
+Learn Web Development with Rails*](http://www.railstutorial.org/)
+by [Michael Hartl](http://www.michaelhartl.com/).
